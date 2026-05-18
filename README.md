@@ -1,6 +1,5 @@
 # zara-sales-analysis-using-sql-eda-
 
-
 zara Sales Analysis
 
 What is this project?
@@ -17,25 +16,21 @@ How many units were sold
 What the Notebook Does
 Step 1 — Loading and Understanding the Data
 The data is first loaded from an Excel file. Then basic checks are done to see how many rows and columns there are, what type of data each column holds, and whether any values are missing.
+
 Step 2 — Section vs Sales Volume
 A bar chart is created to compare average sales across different store sections. This helps understand which store placement leads to more sales.
+
 Step 3 — Product Section Distribution
-A pie chart shows how products are spread across different store sections, giving a picture of how the store is organized.
-Step 4 — Price vs Sales Volume
-A scatter plot is used to see if there is any relationship between a product's price and how many units it sells.
+A pie chart shows how products are spread across different store sections, giving a picture of how the store is organized.Step 4 — Price vs Sales Volume A scatter plot is used to see if there is any relationship between a product's price and how many units it sells.
+
 Step 5 — Season-wise Price Trend
-A line chart shows how the average price of products changes across different seasons.
+A line chart shows how the average price of products changes across different seasons
+
 Step 6 — Promotion vs Sales Volume
 A bar chart compares the average sales of promoted products versus non-promoted products to see if promotions actually help.
 ---
-Key Questions Answered
-Does the location of a product in the store affect its sales?
-Do promotions lead to higher sales?
-Is there a connection between price and sales volume?
-Which season tends to have higher prices?
----
-How to Run
-Open the file in Jupyter Notebook and run all the cells from top to bottom. Make sure to update the Excel file path in the first cell to point to your file on your computer.
----
+
+
+
 Author
 Ayaan
