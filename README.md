@@ -21,7 +21,9 @@ Step 2 — Section vs Sales Volume
 A bar chart is created to compare average sales across different store sections. This helps understand which store placement leads to more sales.
 
 Step 3 — Product Section Distribution
-A pie chart shows how products are spread across different store sections, giving a picture of how the store is organized.Step 4 — Price vs Sales Volume A scatter plot is used to see if there is any relationship between a product's price and how many units it sells.
+A pie chart shows how products are spread across different store sections, giving a picture of how the store is organized
+
+Step 4 — Price vs Sales Volume A scatter plot is used to see if there is any relationship between a product's price and how many units it sells.
 
 Step 5 — Season-wise Price Trend
 A line chart shows how the average price of products changes across different seasons
